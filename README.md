@@ -1,4 +1,4 @@
-# House_Prices-Sales Prediction with XGBoost GridSearch vs HalvingGridSearch vs RandomizedSearch vs HalvingRandomSearch
+# House Prices - Sales Prediction with XGBoost GridSearch vs HalvingGridSearch vs RandomizedSearch vs HalvingRandomSearch
 
 ## Contents:
 
